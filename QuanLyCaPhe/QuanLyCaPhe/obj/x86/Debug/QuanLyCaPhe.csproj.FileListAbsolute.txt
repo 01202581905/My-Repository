@@ -1,0 +1,11 @@
+c:\users\nguyen trong phung\documents\visual studio 2010\Projects\QuanLyCaPhe\QuanLyCaPhe\bin\Debug\QuanLyCaPhe.exe
+c:\users\nguyen trong phung\documents\visual studio 2010\Projects\QuanLyCaPhe\QuanLyCaPhe\bin\Debug\QuanLyCaPhe.pdb
+c:\users\nguyen trong phung\documents\visual studio 2010\Projects\QuanLyCaPhe\QuanLyCaPhe\obj\x86\Debug\QuanLyCaPhe.formLogin.resources
+c:\users\nguyen trong phung\documents\visual studio 2010\Projects\QuanLyCaPhe\QuanLyCaPhe\obj\x86\Debug\QuanLyCaPhe.Properties.Resources.resources
+c:\users\nguyen trong phung\documents\visual studio 2010\Projects\QuanLyCaPhe\QuanLyCaPhe\obj\x86\Debug\QuanLyCaPhe.csproj.GenerateResource.Cache
+c:\users\nguyen trong phung\documents\visual studio 2010\Projects\QuanLyCaPhe\QuanLyCaPhe\obj\x86\Debug\QuanLyCaPhe.exe
+c:\users\nguyen trong phung\documents\visual studio 2010\Projects\QuanLyCaPhe\QuanLyCaPhe\obj\x86\Debug\QuanLyCaPhe.pdb
+c:\users\nguyen trong phung\documents\visual studio 2010\Projects\QuanLyCaPhe\QuanLyCaPhe\obj\x86\Debug\QuanLyCaPhe.QuanLy.resources
+c:\users\nguyen trong phung\documents\visual studio 2010\Projects\QuanLyCaPhe\QuanLyCaPhe\obj\x86\Debug\QuanLyCaPhe.ThongTinCaNhan.resources
+c:\users\nguyen trong phung\documents\visual studio 2010\Projects\QuanLyCaPhe\QuanLyCaPhe\obj\x86\Debug\QuanLyCaPhe.Admin.resources
+C:\Users\Nguyen Trong Phung\documents\visual studio 2010\Projects\QuanLyCaPhe\QuanLyCaPhe\obj\x86\Debug\QuanLyCaPhe.csprojResolveAssemblyReference.cache
