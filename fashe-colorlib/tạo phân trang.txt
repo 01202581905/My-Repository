@@ -1,0 +1,19 @@
+Tạo phân trang trong PHP :
+Gồm :
+Tổng sô sản phẩm trong CSDL :  
+								-$totalproduct= SELECT COUNT(*) FROM [Tên Bảng]
+Tổng số sản phẩm trên 1 trang :
+							-$limit ; do mình quy định 
+Tổng số phân trang :
+					-$pages= $totalproduct/$limit
+Vị trí bắt đầu mẫu tin trên trang :
+									-$start
+Vị trí trang hiện tại :
+						-$currentpage;
+
+$pages = (tổng số mẫu tin / $limit)
+nếu kết quả chia lẻ thì số trang phải được làm tròn lên
+$start = ($curpage - 1) * $limit
+Từ trên giễ dàng suy ra
+$curpage = ($start/$limit)+1
+hàm ceil : giúp chuyển số thập phân ra số nguyên . ví dụ : 4,1-5 . 5,5 -6 
